@@ -1,4 +1,4 @@
-# Internship-report-Redynox-Task-2
+# Internship-Report-Redynox-Task-2
 Task 2: Introduction to Web Application Security
 Objective:
 Learn about common web application vulnerabilities by analysing a simple web application. This task will help you understand how attackers can exploit weaknesses in web applications.
